@@ -1,0 +1,34 @@
+
+navbar ul{
+  list-style-type: none;
+  background: rgb(63, 191, 63);
+  margin: 5px 0;
+  padding: 15px;
+}
+
+navbar li{
+  display: inline;
+}
+
+header h1{
+  text-align: center;
+  font-family: helvetica;
+}
+
+.chickens {
+  color: blue;
+}
+
+section ul{
+  font-family: futura;
+}
+
+section {
+  width:800px;
+  margin: 0 auto;
+}
+
+img {
+  height:200px;
+  width: 200px;
+}
