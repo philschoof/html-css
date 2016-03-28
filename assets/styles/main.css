@@ -11,3 +11,51 @@ h1 {
   font-family: cursive;
   color: 	#954535;
 }
+
+ol li::first-letter{
+  font-weight: bold;
+}
+
+.butter{
+  color:yellow;
+}
+
+.brown-sugar{
+  color: brown;
+}
+
+.granulated-sugar{
+  color: grey;
+}
+
+.vanilla-pudding{
+  color:blue;
+}
+
+.milk {
+  color:pink;
+}
+
+.vanilla {
+  color: red;
+}
+
+.eggs {
+  color: orange;
+}
+
+.flour {
+  color:purple;
+}
+
+.baking-soda{
+  color: green;
+}
+
+.salt {
+  color:#9E0E0E;
+}
+
+.chocolate-chips{
+  color:#614B4B;
+}
